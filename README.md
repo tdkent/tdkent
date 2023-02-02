@@ -1,4 +1,6 @@
-### Hi 👋, I'm Tim Kent
+## Hi, my name is Tim Kent. Welcome to my GitHub profile!
+#### I'm a full stack software developer in the San Francisco Bay Area.
+
 
 <!--
 **tdkent/tdkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
