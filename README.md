@@ -1,5 +1,5 @@
 ## Hi, my name is Tim Kent. Welcome to my GitHub profile!
-#### I'm a full stack software developer in the San Francisco Bay Area.
+#### <p align="center">I'm a full stack software developer in the San Francisco Bay Area.</p>
 
 
 <!--
