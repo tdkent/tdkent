@@ -1,6 +1,8 @@
 ## <p align="center">Hi, my name is Tim. Welcome to my GitHub profile!</p>
 #### <p align="center">I'm a full stack software developer in the San Francisco Bay Area.</p>
 
+- I'm currently learning <b>TypeScript</b>.
+
 
 <!--
 **tdkent/tdkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
