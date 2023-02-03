@@ -1,23 +1,13 @@
 ## <p align="center">Hi, my name is Tim. Welcome to my GitHub profile!</p>
 #### <p align="center">I'm a full stack software developer in the San Francisco Bay Area.</p>
 
-###### A little about me:
 - :graduate: I'm a [Fullstack Academy](https://www.fullstackacademy.com/) graduate with a certificate in Web Development.
 - :seedling: I'm currently learning <b>TypeScript</b>
 - 📫 How to reach me: timdekent@gmail.com
 - ⚡ My favorite film is *2001: A Space Odyssey*
 
-<!--
-**tdkent/tdkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Languages:
 
-Here are some ideas to get you started:
+####Frameworks and Libraries:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####My socials:
