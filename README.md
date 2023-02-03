@@ -22,7 +22,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=for-the-badge&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
-![Jest](https://img.shields.io/badge/-Jest-36454F?style=for-the-badge&logo=jest)
 
 <h3>Databases:</h3>
 
