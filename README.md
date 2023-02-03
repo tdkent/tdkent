@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-36454F?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-36454F?style=for-the-badge)
 
-<h3>Libraries and Frameworks and Databases:</h3>
+<h3>Libraries and Frameworks:</h3>
 
 ![React](https://img.shields.io/badge/-React-36454F?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/-ReactRouter-36454F?style=for-the-badge&logo=reactrouter)
