@@ -7,7 +7,7 @@
 
 <h3>Languages:</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-666?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-666?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-888?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-888?style=for-the-badge&logo=typescript)
 
 <h3>Frameworks and Libraries:</h3>
