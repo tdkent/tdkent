@@ -12,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-36454F?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-36454F?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-36454F?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-36454F?style=for-the-badge&logo=git)
 
 <h3>Libraries and Frameworks:</h3>
 
@@ -21,6 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=for-the-badge&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
+![Jest](https://img.shields.io/badge/-Jest-36454F?style=for-the-badge&logo=jest)
 
 <h3>Databases:</h3>
 
