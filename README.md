@@ -24,7 +24,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-36454F?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-36454F?style=for-the-badge&logo=mongodb)
 
-<h3>Hosting and Services</h3>
+<h3>Hosting and Services:</h3>
+
 ![Netlify](https://img.shields.io/badge/-Netlify-36454F?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-36454F?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-36454F?style=for-the-badge&logo=heroku)
