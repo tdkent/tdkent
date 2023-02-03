@@ -22,7 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
 
-<h3>Databases</h3>
+<h3>Databases:</h3>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-36454F?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-36454F?style=for-the-badge&logo=mongodb)
