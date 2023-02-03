@@ -13,10 +13,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-36454F?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-36454F?style=for-the-badge)
 
-<h3>Libraries and Frameworks:</h3>
+<h3>Libraries, Frameworks and Databases:</h3>
 
 ![React](https://img.shields.io/badge/-React-36454F?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-36454F?style=for-the-badge&logo=nextdotjs)
 ![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-36454F?style=for-the-badge&logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=for-the-badge&logo=tailwindcss)
