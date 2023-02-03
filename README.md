@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, my name is Tim. Welcome to my GitHub profile!</h1>
+<h1 align="center">Hi 👋, my name is Tim. Welcome to my GitHub profile!</h1>
 <h3 align="center">I'm a full stack software developer in the San Francisco Bay Area.</h3>
 
 - 🎓 I'm a [Fullstack Academy](https://www.fullstackacademy.com/) graduate with a certificate in Web Development
@@ -9,6 +9,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge)
 
 <h3>Frameworks and Libraries:</h3>
