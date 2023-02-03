@@ -31,3 +31,4 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-36454F?style=for-the-badge&logo=heroku)
 ![Amazon S3](https://img.shields.io/badge/-AmazonS3-36454F?style=for-the-badge&logo=amazons3)
 ![Google Maps](https://img.shields.io/badge/-GoogleMaps-36454F?style=for-the-badge&logo=googlemaps)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-36454F?style=for-the-badge&logo=cloudinary)
