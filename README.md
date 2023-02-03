@@ -9,4 +9,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
+
 <h3>Frameworks and Libraries:</h3>
