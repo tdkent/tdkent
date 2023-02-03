@@ -6,8 +6,8 @@
 - 📫 How to reach me: timdekent@gmail.com
 - ⚡ My favorite film is *2001: A Space Odyssey*
 
-####Languages:
+#### Languages:
 
-####Frameworks and Libraries:
+#### Frameworks and Libraries:
 
-####My socials:
+#### My socials:
