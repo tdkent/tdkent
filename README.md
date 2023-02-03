@@ -16,9 +16,9 @@
 <h3>Libraries, Frameworks and Databases:</h3>
 
 ![React](https://img.shields.io/badge/-React-36454F?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/-React Router-36454F?style=for-the-badge&logo=reactrouter)
+![ReactRouter](https://img.shields.io/badge/-React Router-36454F?style=for-the-badge&logo=reactrouter)
 ![NextJS](https://img.shields.io/badge/-NextJS-36454F?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind CSS-36454F?style=for-the-badge&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind CSS-36454F?style=for-the-badge&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-36454F?style=for-the-badge&logo=postgresql)
@@ -28,5 +28,5 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-36454F?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-36454F?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-36454F?style=for-the-badge&logo=heroku)
-![Amazon S3](https://img.shields.io/badge/-Amazon S3-36454F?style=for-the-badge&logo=amazons3)
-![Google Maps](https://img.shields.io/badge/-Google Maps-36454F?style=for-the-badge&logo=googlemaps)
+![AmazonS3](https://img.shields.io/badge/-Amazon S3-36454F?style=for-the-badge&logo=amazons3)
+![GoogleMaps](https://img.shields.io/badge/-Google Maps-36454F?style=for-the-badge&logo=googlemaps)
