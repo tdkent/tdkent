@@ -1,4 +1,4 @@
-## Hi, my name is Tim Kent. Welcome to my GitHub profile!
+## <p align="center">Hi, my name is Tim. Welcome to my GitHub profile!</p>
 #### <p align="center">I'm a full stack software developer in the San Francisco Bay Area.</p>
 
 
