@@ -2,7 +2,7 @@
 <h3 align="center">I'm a full stack software developer in the San Francisco Bay Area.</h3>
 
 - 🎓 I'm a [Fullstack Academy](https://www.fullstackacademy.com/) graduate with a certificate in Web Development
-- 📓 I'm currently studying <b>TypeScript</b>
+- 📓 I'm currently building a list-making app called [ListMaker](https://mylistmaker.netlify.app/) using TypeScript, React, React Query, Node, Express, and PostgreSQL.
 - 📬 Reach me at [timkentdev@gmail.com](mailto:timkentdev@gmail.com)
 
 <h3>Languages:</h3>
