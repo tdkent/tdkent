@@ -3,7 +3,7 @@
 
 - 🎓 I'm a [Fullstack Academy](https://www.fullstackacademy.com/) graduate with a certificate in Web Development
 - 📓 I'm currently studying <b>TypeScript</b>
-- 📬 Reach me at [timdekent@gmail.com](mailto:timdekent@gmail.com)
+- 📬 Reach me at [timkentdev@gmail.com](mailto:timkentdev@gmail.com)
 
 <h3>Languages:</h3>
 
