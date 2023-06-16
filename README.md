@@ -1,38 +1,51 @@
-<h1 align="center">Hi 👋, my name is Tim. Welcome to my GitHub profile!</h1>
-<h3 align="center">I'm a full stack software developer in the San Francisco Bay Area.</h3>
+# Hello 👋, welcome to my profile
 
-- 🎓 I'm a [Fullstack Academy](https://www.fullstackacademy.com/) graduate with a certificate in Web Development
-- 📓 I'm currently building a list-making app called [ListMaker](https://mylistmaker.netlify.app/) using TypeScript, React, React Query, Node, Express, and PostgreSQL.
-- 📬 Reach me at [timkentdev@gmail.com](mailto:timkentdev@gmail.com)
+## About Me
 
-<h3>Languages:</h3>
+- Full stack software engineer based in Alameda, CA, seeking new roles and opportunities.
+- Graduated from [Fullstack Academy's](https://www.fullstackacademy.com/) intensive 6-month Web
+  Development certification program in 2022.
+- Built **e-commerce**, **image-sharing**, **educational**, and **list-making** web applications.
+- Experience in collaborative and solo development.
+- Enjoy every opportunity to teach and learn.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-36454F?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-36454F?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-36454F?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-36454F?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-36454F?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-36454F?style=for-the-badge&logo=git)
+## What I'm Doing
 
-<h3>Libraries and Frameworks:</h3>
+- Launched, actively developing list-making app [ListMaker](https://mylistmaker.netlify.app/).
+- Learning **Redux**, **Vue.js**, and **site security basics (SQL injection, Cross-Site Scripting,
+  etc.)**
+- Looking to collaborate on new **JavaScript/PERN/MERN** projects
 
-![React](https://img.shields.io/badge/-React-36454F?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/-ReactRouter-36454F?style=for-the-badge&logo=reactrouter)
-![NextJS](https://img.shields.io/badge/-NextJS-36454F?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=for-the-badge&logo=tailwindcss)
-![NodeJS](https://img.shields.io/badge/-Node-36454F?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-36454F?style=for-the-badge&logo=express)
+## Skill Set
 
-<h3>Databases:</h3>
+- Front End:
+  - Languages: • `JavaScript` • `TypeScript` • `HTML` • `CSS`
+  - Libraries &amp; Frameworks: `React` • `Next.js` • `React Router` • `React Query` •
+    `Tailwind CSS`
+- Back End:
+  - Languages: `JavaScript` • `TypeScript` • `SQL`
+  - Environments: • `Node.js`
+  - Libraries &amp; Frameworks: • `Express`
+  - Databases: • `PostgreSQL` • `MongoDB`
+- Hosting &amp; Services:
+  - Front End Hosting: • `Netlify` • `Vercel` • `Netfirms` • `Inmotion Hosting`
+  - Back End &amp; Database Hosting: • `Heroku` • `MongoDB Atlas`
+  - Headless CMS: • `Strapi`
+  - Image &amp; Asset Management: • `Amazon S3` • `Cloudinary`
+  - Cloud Computing Services: • `Google Maps JavaScript API` • `Google Places` • `Google Geocoding`
+- Development Tools:
+  - Version Control: • `Git`
+  - Code Repository: • `GitHub`
+  - Code Editors: • `Visual Studio Code` • `Adobe Dreamweaver`
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-36454F?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-36454F?style=for-the-badge&logo=mongodb)
+## Contact Me
 
-<h3>Hosting and Services:</h3>
+- Email: [timkentdev@gmail.com](mailto:timkentdev@gmail.com)
+- Portfolio Website: [timdkent.com](https://timdkent.com)
 
-![Netlify](https://img.shields.io/badge/-Netlify-36454F?style=for-the-badge&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-36454F?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-36454F?style=for-the-badge&logo=heroku)
-![Amazon S3](https://img.shields.io/badge/-AmazonS3-36454F?style=for-the-badge&logo=amazons3)
-![Google Maps](https://img.shields.io/badge/-GoogleMaps-36454F?style=for-the-badge&logo=googlemaps)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-36454F?style=for-the-badge&logo=cloudinary)
+## More About Me
+
+- Worked in video editing and post from 2010 - 2022.
+- Made my first website [Obscure Hollywood](https://obscurehollywood.net/) in 2009.
+- :hearts: video games, classic films, classical music, swimming, hiking, baseball, history,
+  science-fiction.
