@@ -8,29 +8,20 @@ I'm a JavaScript developer from California.
 - Practicing DSAs at Leetcode (current rank: 634,775 :expressionless:)
 - Learning NestJS
 
-## Skills
-
-- Front End:
-  - Languages: • `JavaScript` • `TypeScript` • `HTML` • `CSS`
-  - Libraries &amp; Frameworks: `React` • `Vue` • `Next` • `Nuxt` • `Tailwind CSS`
-- Back End:
-  - Languages: `JavaScript` • `TypeScript` • `SQL`
-  - Environments: • `Node.js`
-  - Libraries &amp; Frameworks: • `Express`
-  - Databases: • `PostgreSQL` • `MySQL` • `MongoDB`
-- Hosting &amp; Services:
-  - Front End Hosting: • `Netlify` • `Vercel` • `Netfirms` • `Inmotion Hosting`
-  - Back End &amp; Database Hosting: • `Heroku` • `Render` • `MongoDB Atlas`
-  - Image &amp; Asset Management: • `Amazon S3` • `Cloudinary`
-  - Cloud Computing Services: • `Google Maps JavaScript API` • `Google Places` • `Google Geocoding`
-- Development Tools:
-  - Version Control: • `Git`
-  - Code Repository: • `GitHub` • `GitLab`
-  - Code Editors: • `Visual Studio Code` • `IntelliJ`
-
-## Education
+## My Degrees and Certs
 
 - BS in Software Engineering, WGU
 - AWS Certified Cloud Practitioner
 - CompTIA Project+
 - Fullstack Academy Certificate of Web Development
+
+## Technologies I Use
+
+- Core Programming Languages: `JavaScript` • `TypeScript` • `SQL`
+  - Experience With: `Java` • `Python`
+- Libraries, Frameworks, etc: `React` • `Vue.js` • `Next.js` • `Nuxt` • `Node.js` • `Express` • `Tailwind CSS` • `React Router` • `React Query` • `Redux` • `Zustand`
+  - Experience With: • `Angular`
+- Databases: `PostgreSQL` • `MySQL` • `MongoDB`
+- SDKs: • `Google Maps JavaScript API` • `Amazon S3` • `Cloudinary`
+  - Experience With: • `Android SDK`
+- Version Control: • `Git` • `GitHub` • `GitLab`
