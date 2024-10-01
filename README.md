@@ -5,7 +5,7 @@ I'm a JavaScript developer from California.
 ## What I'm Doing
 
 - Working on freelance development projects
-- Practicing DSAs at Leetcode (current rank: ~~634,775~~ ~~575,503~~ 508,148 :expressionless:)
+- Practicing DSAs at Leetcode (current rank: ~~634,775~~ ~~575,503~~ ~~508,148~~ 458,203 :expressionless:)
 - Learning NestJS
 
 ## My Degrees and Certs
