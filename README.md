@@ -4,9 +4,9 @@ I'm a JavaScript developer from California.
 
 ## What I'm Doing
 
-- Working on freelance development projects
-- Practicing DSAs at Leetcode (current rank: ~~634,775~~ ~~575,503~~ ~~508,148~~ 458,203 :expressionless:)
-- Learning NestJS
+- Teaching Assistant, Fullstack Academy
+- Working on a 6-week collaborative sprint via Chingu
+- Building a bird-watching application with NextJS and NestJS
 
 ## My Degrees and Certs
 
@@ -19,7 +19,7 @@ I'm a JavaScript developer from California.
 
 - Core Programming Languages: `JavaScript` • `TypeScript` • `SQL`
   - Experience With: `Java` • `Python`
-- Libraries, Frameworks, etc: `React` • `Vue.js` • `Next.js` • `Nuxt` • `Node.js` • `Express` • `Tailwind CSS` • `React Router` • `React Query` • `Redux` • `Zustand`
+- Libraries, Frameworks, etc: `React` • `Vue.js` • `Next.js` • `Nuxt` • `Node.js` • `Express` • `NestJS` • `Tailwind CSS` • `React Router` • `React Query` • `Redux` • `Zustand`
   - Experience With: • `Angular`
 - Databases: `PostgreSQL` • `MySQL` • `MongoDB`
 - SDKs: • `Google Maps JavaScript API` • `Amazon S3` • `Cloudinary`
