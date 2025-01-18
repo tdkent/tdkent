@@ -5,8 +5,7 @@ I'm a JavaScript developer from California.
 ## What I'm Doing
 
 - Teaching Assistant, Fullstack Academy
-- Working on a 6-week collaborative sprint via Chingu
-- Building a bird-watching application with NextJS and NestJS
+- Working on various apps
 
 ## My Degrees and Certs
 
